@@ -13,12 +13,12 @@ body {
 	display: flex;
   	min-height: 100vh;
   	flex-direction: column;
-  	width: 1300px;
-  	margin:auto;
+  	
     
 }
 #flex {
 	flex:1;
+	margin:auto;
 }
 
 header {
@@ -69,9 +69,9 @@ p {
 
 h2 {
 	color: #4aaaa5;
-	
 
 }
+
 
 #long {
 	width: 100px;
